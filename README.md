@@ -31,7 +31,7 @@ In this repository, you'll find solutions to a wide range of coding problems, or
 Ready to dive into the world of coding excellence? Follow these simple steps to explore the solutions:
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/YashKumarGU/CodingNinjas
+    git clone https://github.com/YashKumar161/CodingNinjas
     ```
 2. **Navigate to the Repository Directory:**
     ```bash
