@@ -1,6 +1,9 @@
+<div align ="center">
+
 # Welcome to my Coding Ninjas Solutions Repository! 🚀
 
 ![Coding Ninjas Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIa4ONlqMk8Lb2ggnsyBBba9HDdS7bNtT5mOcIRAaJjWnBf5o7xzcMcxYjCFdjEu_izak&usqp=CAU)
+</div>
 
 Welcome to my Coding Ninjas repository! Here, you'll find a treasure trove of solutions to various coding problems from Coding Ninjas courses and challenges, covering Python programming, Data Science, Machine Learning, AI, and Data Structures. This repository not only showcases my problem-solving skills but also documents my journey of learning and mastering different programming concepts.
 
