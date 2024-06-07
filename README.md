@@ -35,7 +35,7 @@ Ready to dive into the world of coding excellence? Follow these simple steps to 
     ```
 2. **Navigate to the Repository Directory:**
     ```bash
-    cd coding-ninjas-solutions
+    cd CodingNinjas
     ```
 
 ## Contributing
@@ -49,5 +49,4 @@ I'm thrilled to have you onboard! Feel free to contribute to this repository in 
 Join me in this exhilarating journey of coding mastery. Follow me on my social channels to stay updated on the latest coding adventures, challenges, and insights. Let's inspire and empower each other to reach new heights!
 
 Happy Coding! 🌟
-
 Yash Kumar
